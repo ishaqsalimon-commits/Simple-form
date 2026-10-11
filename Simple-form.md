@@ -66,8 +66,8 @@ git push origin main
 ### Branching for new features image
 
 ![Screenshot-3](Screenshot-3%20(2).png)
-Undoing Local Changes:
 
+Undoing Local Changes:
 You accidentally made some unwanted changes to style.css that you haven’t committed yet. Discard these local changes and revert the file to its previous state:
 
 git checkout -- style.css
@@ -77,3 +77,4 @@ Pulling Updates from GitHub:
 
   ```bash
   git pull origin main
+
